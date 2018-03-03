@@ -1,0 +1,331 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{21}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Angwin, Larson, Mattu, and Kirchner}{Angwin
+  et~al\mbox{.}}{2016}]%
+        {propublicamachinebias}
+\bibfield{author}{\bibinfo{person}{Julia Angwin}, \bibinfo{person}{Jeff
+  Larson}, \bibinfo{person}{Surya Mattu}, {and} \bibinfo{person}{Lauren
+  Kirchner}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Machine bias}.
+\newblock \bibinfo{journal}{\emph{ProPublica}} (\bibinfo{date}{23 May}
+  \bibinfo{year}{2016}).
+\newblock
+\urldef\tempurl%
+\url{https://perma.cc/L4M4-TJQT}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Barocas and Selbst}{Barocas and
+  Selbst}{2016}]%
+        {barocas2016big}
+\bibfield{author}{\bibinfo{person}{Solon Barocas} {and}
+  \bibinfo{person}{Andrew~D Selbst}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Big Data's Disparate Impact}.
+\newblock \bibinfo{journal}{\emph{California Law Review}}
+  \bibinfo{volume}{104} (\bibinfo{year}{2016}), \bibinfo{pages}{671--732}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Binns}{Binns}{2018}]%
+        {binns2017fairness}
+\bibfield{author}{\bibinfo{person}{Reuben Binns}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Fairness in Machine Learning: Lessons from
+  Political Philosophy}.
+\newblock \bibinfo{journal}{\emph{Proceedings of Machine Learning Research
+  (FAT* 2018 Proceedings)}}  \bibinfo{volume}{81} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{149--159}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/1712.03586}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Binns, Van~Kleek, Veale, Lyngs, Zhao, and
+  Shadbolt}{Binns et~al\mbox{.}}{2018}]%
+        {binns2018reducing}
+\bibfield{author}{\bibinfo{person}{Reuben Binns}, \bibinfo{person}{Max
+  Van~Kleek}, \bibinfo{person}{Michael Veale}, \bibinfo{person}{Ulrik Lyngs},
+  \bibinfo{person}{Jun Zhao}, {and} \bibinfo{person}{Nigel Shadbolt}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{'It's Reducing a Human Being to a Percentage';
+  Perceptions of Justice in Algorithmic Decisions}. In
+  \bibinfo{booktitle}{\emph{CHI'18}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Binns, Veale, Van~Kleek, and Shadbolt}{Binns
+  et~al\mbox{.}}{2017}]%
+        {binns2017like}
+\bibfield{author}{\bibinfo{person}{Reuben Binns}, \bibinfo{person}{Michael
+  Veale}, \bibinfo{person}{Max Van~Kleek}, {and} \bibinfo{person}{Nigel
+  Shadbolt}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Like trainer, like bot? Inheritance of bias in
+  algorithmic content moderation}. In \bibinfo{booktitle}{\emph{Socinfo'17}}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-319-67256-4_32}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Bolukbasi, Chang, Zou, Saligrama, and
+  Kalai}{Bolukbasi et~al\mbox{.}}{2016}]%
+        {BolukbasiCZSK16a}
+\bibfield{author}{\bibinfo{person}{Tolga Bolukbasi}, \bibinfo{person}{Kai{-}Wei
+  Chang}, \bibinfo{person}{James~Y. Zou}, \bibinfo{person}{Venkatesh
+  Saligrama}, {and} \bibinfo{person}{Adam Kalai}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Man is to Computer Programmer as Woman is to
+  Homemaker? Debiasing Word Embeddings}.
+\newblock \bibinfo{journal}{\emph{NIPS'16}} (\bibinfo{year}{2016}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chouldechova}{Chouldechova}{2017}]%
+        {chouldechova2017fair}
+\bibfield{author}{\bibinfo{person}{Alexandra Chouldechova}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Fair prediction with disparate impact: A study of
+  bias in recidivism prediction instruments}.
+\newblock \bibinfo{journal}{\emph{Big data}} \bibinfo{volume}{5},
+  \bibinfo{number}{2} (\bibinfo{year}{2017}), \bibinfo{pages}{153--163}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Crawford and Ostrom}{Crawford and
+  Ostrom}{1995}]%
+        {crawford1995grammar}
+\bibfield{author}{\bibinfo{person}{Sue~ES Crawford} {and}
+  \bibinfo{person}{Elinor Ostrom}.} \bibinfo{year}{1995}\natexlab{}.
+\newblock \showarticletitle{A grammar of institutions}.
+\newblock \bibinfo{journal}{\emph{American Political Science Review}}
+  \bibinfo{volume}{89}, \bibinfo{number}{3} (\bibinfo{year}{1995}),
+  \bibinfo{pages}{582--600}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Edwards and Veale}{Edwards and Veale}{2017}]%
+        {edwardsveale}
+\bibfield{author}{\bibinfo{person}{Lilian Edwards} {and}
+  \bibinfo{person}{Michael Veale}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{{Slave to the Algorithm? Why a `Right to an
+  Explanation' is Probably Not The Remedy You Are Looking For}}.
+\newblock \bibinfo{journal}{\emph{Duke Law \& Technology Review}}
+  \bibinfo{volume}{16}, \bibinfo{number}{1} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{18--84}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.2139/ssrn.2972855}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Griswold}{Griswold}{2017}]%
+        {smartspeaker}
+\bibfield{author}{\bibinfo{person}{Alison Griswold}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Amazon Echo has a huge lead on Google Home---and
+  it's growing}.
+\newblock \bibinfo{journal}{\emph{Quartz}} (\bibinfo{year}{2017}).
+\newblock
+\urldef\tempurl%
+\url{https://perma.cc/L8GJ-6P59}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Keats~Citron and Pasquale}{Keats~Citron and
+  Pasquale}{2014}]%
+        {Pasquale:2014vt}
+\bibfield{author}{\bibinfo{person}{Danielle Keats~Citron} {and}
+  \bibinfo{person}{Frank Pasquale}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{{The scored society: Due process for automated
+  predictions}}.
+\newblock \bibinfo{journal}{\emph{Washington Law Review}} \bibinfo{volume}{89},
+  \bibinfo{number}{1} (\bibinfo{year}{2014}), \bibinfo{pages}{1--33}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Marwick and {b}oyd}{Marwick and
+  {b}oyd}{2014}]%
+        {marwick2014networked}
+\bibfield{author}{\bibinfo{person}{Alice~E Marwick} {and}
+  \bibinfo{person}{{d}anah {b}oyd}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Networked privacy: How teenagers negotiate context
+  in social media}.
+\newblock \bibinfo{journal}{\emph{New Media \& Society}} \bibinfo{volume}{16},
+  \bibinfo{number}{7} (\bibinfo{year}{2014}), \bibinfo{pages}{1051--1067}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Moore}{Moore}{2015}]%
+        {mooreOASys}
+\bibfield{editor}{\bibinfo{person}{Robin Moore}} (Ed.).
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{A compendium of research and analysis on
+  the Offender Assessment System}}}.
+\newblock \bibinfo{publisher}{Ministry of Justice Analytical Series},
+  \bibinfo{address}{London}.
+\newblock
+\urldef\tempurl%
+\url{https://perma.cc/W2FT-NFWZ}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Oswald, Grace, Urwin, and Barnes}{Oswald
+  et~al\mbox{.}}{2018}]%
+        {marionHART17}
+\bibfield{author}{\bibinfo{person}{Marion Oswald}, \bibinfo{person}{Jamie
+  Grace}, \bibinfo{person}{Sheena Urwin}, {and} \bibinfo{person}{Geoffrey~C.
+  Barnes}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Algorithmic Risk Assessment Policing Models:
+  Lessons from the Durham HART Model and `Experimental' Proportionality}.
+\newblock \bibinfo{journal}{\emph{Information \& Communications Technology
+  Law}} (\bibinfo{year}{2018}).
+\newblock
+\urldef\tempurl%
+\url{https://ssrn.com/abstract=3029345}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Pirolli and Card}{Pirolli and Card}{2005}]%
+        {pirolli2005sensemaking}
+\bibfield{author}{\bibinfo{person}{Peter Pirolli} {and} \bibinfo{person}{Stuart
+  Card}.} \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{The sensemaking process and leverage points for
+  analyst technology as identified through cognitive task analysis}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 2005 International Conference on
+  Intelligence Analysis}}, Vol.~\bibinfo{volume}{5}. \bibinfo{pages}{2--4}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ribeiro, Singh, and Guestrin}{Ribeiro
+  et~al\mbox{.}}{2016}]%
+        {ribeiro2016should}
+\bibfield{author}{\bibinfo{person}{Marco~Tulio Ribeiro},
+  \bibinfo{person}{Sameer Singh}, {and} \bibinfo{person}{Carlos Guestrin}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{``Why should I trust you?'': Explaining the
+  predictions of any classifier}. In \bibinfo{booktitle}{\emph{KDD'16}}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2939672.2939778}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Skitka, Mosier, and Burdick}{Skitka
+  et~al\mbox{.}}{1999}]%
+        {Skitka:1999il}
+\bibfield{author}{\bibinfo{person}{Linda~J Skitka}, \bibinfo{person}{Kathleen~L
+  Mosier}, {and} \bibinfo{person}{Mark Burdick}.}
+  \bibinfo{year}{1999}\natexlab{}.
+\newblock \showarticletitle{{Does automation bias decision-making?}}
+\newblock \bibinfo{journal}{\emph{International Journal of Human-Computer
+  Studies}}  \bibinfo{volume}{51} (\bibinfo{year}{1999}),
+  \bibinfo{pages}{991--1006}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1006/ijhc.1999.0252}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Van~Kleek, Binns, Zhao, Slack, Lee, Ottewell,
+  and Shadbolt}{Van~Kleek et~al\mbox{.}}{2018}]%
+        {refine}
+\bibfield{author}{\bibinfo{person}{Max Van~Kleek}, \bibinfo{person}{Reuben
+  Binns}, \bibinfo{person}{Jun Zhao}, \bibinfo{person}{Adam Slack},
+  \bibinfo{person}{Sauyon Lee}, \bibinfo{person}{Dean Ottewell}, {and}
+  \bibinfo{person}{Nigel Shadbolt}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{X-Ray Refine: Supporting the Exploration and
+  Refinement of Information Exposure Resulting from Smartphone Apps}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 2017 CHI Conference on Human
+  Factors in Computing Systems}} \emph{(\bibinfo{series}{CHI'18})}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Van~Kleek, Liccardi, Binns, Zhao, Weitzner,
+  and Shadbolt}{Van~Kleek et~al\mbox{.}}{2017}]%
+        {btdchi}
+\bibfield{author}{\bibinfo{person}{Max Van~Kleek}, \bibinfo{person}{Ilaria
+  Liccardi}, \bibinfo{person}{Reuben Binns}, \bibinfo{person}{Jun Zhao},
+  \bibinfo{person}{Daniel~J. Weitzner}, {and} \bibinfo{person}{Nigel
+  Shadbolt}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Better the Devil You Know: Exposing the Data
+  Sharing Practices of Smartphone Apps}. In \bibinfo{booktitle}{\emph{CHI'17}}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3025453.3025556}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Veale and Edwards}{Veale and Edwards}{2018}]%
+        {vealeedwardsa29}
+\bibfield{author}{\bibinfo{person}{Michael Veale} {and} \bibinfo{person}{Lilian
+  Edwards}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Clarity, Surprises, and Further Questions in the
+  Article 29 Working Party Draft Guidance on Automated Decision-Making and
+  Profiling}.
+\newblock \bibinfo{journal}{\emph{Computer Law \& Security Review}}
+  (\bibinfo{year}{2018}).
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1016/j.clsr.2017.12.002}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Veale, Kleek, and Binns}{Veale
+  et~al\mbox{.}}{2018}]%
+        {vealefairnessdesign2018}
+\bibfield{author}{\bibinfo{person}{Michael Veale}, \bibinfo{person}{Max~Van
+  Kleek}, {and} \bibinfo{person}{Reuben Binns}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Fairness and Accountability Design Needs for
+  Algorithmic Support in High-Stakes Public Sector Decision-Making}.
+\newblock \bibinfo{journal}{\emph{CHI'18}} (\bibinfo{year}{2018}).
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3173574.3174014}
+\showDOI{\tempurl}
+
+
+\end{thebibliography}

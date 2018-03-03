@@ -1,0 +1,92 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: sample-sigchi-a.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample-bibliography.bib
+You're missing a field name---line 109 of file sample-bibliography.bib
+ :  doi = {10.1145/3025453.3025556},
+ :                                  ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 123 of file sample-bibliography.bib
+ :   
+ :   howpublished = {\url{https://techcrunch.com/2018/01/12/39-million-americans-now-own-a-smart-speaker-report-claims/}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no number and no volume in propublicamachinebias
+Warning--page numbers missing in both pages and numpages fields in propublicamachinebias
+Warning--empty publisher in binns2018reducing
+Warning--empty address in binns2018reducing
+Warning--page numbers missing in both pages and numpages fields in binns2018reducing
+Warning--empty publisher in binns2017like
+Warning--empty address in binns2017like
+Warning--page numbers missing in both pages and numpages fields in binns2017like
+Warning--no number and no volume in BolukbasiCZSK16a
+Warning--page numbers missing in both pages and numpages fields in BolukbasiCZSK16a
+Warning--no number and no volume in smartspeaker
+Warning--page numbers missing in both pages and numpages fields in smartspeaker
+Warning--no number and no volume in marionHART17
+Warning--page numbers missing in both pages and numpages fields in marionHART17
+Warning--empty publisher in pirolli2005sensemaking
+Warning--empty address in pirolli2005sensemaking
+Warning--empty publisher in ribeiro2016should
+Warning--empty address in ribeiro2016should
+Warning--page numbers missing in both pages and numpages fields in ribeiro2016should
+Warning--empty publisher in refine
+Warning--empty address in refine
+Warning--page numbers missing in both pages and numpages fields in refine
+Warning--empty publisher in btdchi
+Warning--empty address in btdchi
+Warning--page numbers missing in both pages and numpages fields in btdchi
+Warning--no number and no volume in vealeedwardsa29
+Warning--page numbers missing in both pages and numpages fields in vealeedwardsa29
+Warning--no number and no volume in vealefairnessdesign2018
+Warning--page numbers missing in both pages and numpages fields in vealefairnessdesign2018
+You've used 21 entries,
+            5733 wiz_defined-function locations,
+            1417 strings with 18643 characters,
+and the built_in function-call counts, 24796 in all, are:
+= -- 3371
+> -- 922
+< -- 0
++ -- 305
+- -- 324
+* -- 1753
+:= -- 2466
+add.period$ -- 100
+call.type$ -- 21
+change.case$ -- 147
+chr.to.int$ -- 21
+cite$ -- 50
+duplicate$ -- 2091
+empty$ -- 1489
+format.name$ -- 392
+if$ -- 6162
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 87
+newline$ -- 243
+num.names$ -- 169
+pop$ -- 838
+preamble$ -- 1
+purify$ -- 336
+quote$ -- 0
+skip$ -- 676
+stack$ -- 0
+substring$ -- 1627
+swap$ -- 178
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 419
+warning$ -- 29
+while$ -- 153
+width$ -- 0
+write$ -- 423
+(There were 2 error messages)
